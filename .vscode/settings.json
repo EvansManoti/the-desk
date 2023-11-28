@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "db.taajewaaxpbjpklzqfri.supabase.co",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "KBD",
+            "database": "postgres",
+            "username": "postgres",
+            "password": "manoti123#nafat"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:SQL 001}/sqliteDbs/punk.db",
+            "name": "CX"
+        }
+    ]
+}
